@@ -26,7 +26,7 @@ I love building **clean, modern, and user-friendly web interfaces**. Currently e
 ---
 
 ## 📊 GitHub Stats
-![Harshit's GitHub stats]([https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight](https://github.com/HarshitMishra12/github-readme-stats/settings/pages))
+![Harshit's GitHub stats](![Harshit’s GitHub Stats](https://HarshitMishra12.github.io/github-readme-stats/api?username=HarshitMishra12&show_icons=true&theme=default))
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YourUsername&theme=tokyonight)
 
