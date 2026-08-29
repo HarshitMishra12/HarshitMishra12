@@ -506,3 +506,61 @@ width="100%"/>
 <br>
 
 ---
+
+
+
+
+
+
+<!-- ========================================================= -->
+<!--                 GITHUB ACHIEVEMENTS                        -->
+<!-- ========================================================= -->
+
+<br>
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=BUILDING+IN+PUBLIC+%F0%9F%9A%80;MILESTONES+%E2%80%A2+CONTRIBUTIONS+%E2%80%A2+GROWTH;KEEP+PUSHING+FORWARD+%F0%9F%94%A5"
+/>
+
+<br><br>
+
+<!-- ===================== ACHIEVEMENT BADGES ===================== -->
+
+<a href="https://github.com/HarshitMishra12">
+<img src="https://img.shields.io/github/followers/HarshitMishra12?style=for-the-badge&logo=github&label=FOLLOWERS&color=58A6FF"/>
+</a>
+
+<a href="https://github.com/HarshitMishra12?tab=repositories">
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-EXPLORER-1E3A8A?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/HarshitMishra12?tab=stars">
+<img src="https://img.shields.io/badge/GITHUB-STARS-58A6FF?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+<!-- ===================== TROPHIES ===================== -->
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=HarshitMishra12&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+width="95%"
+/>
+
+<br><br>
+
+<!-- ===================== MILESTONE ANIMATION ===================== -->
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1700&pause=600&color=8B949E&center=true&vCenter=true&width=800&lines=Every+Repository+is+a+Learning+Experience+%F0%9F%93%9A;Every+Commit+is+a+Step+Forward+%F0%9F%9A%80;Every+Project+Builds+the+Next+One+%F0%9F%94%A5"
+/>
+
+</div>
+
+<br>
+
+---
