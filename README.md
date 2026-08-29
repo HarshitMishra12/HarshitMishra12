@@ -15,55 +15,134 @@
 </div>
 
 
+
+
+<!-- ===================== ABOUT ME ===================== -->
+
 <br>
 
 # 👨‍💻 About Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Harshit+Mishra+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;AI+%26+FinTech+Enthusiast+%F0%9F%A4%96%F0%9F%93%88;Building+Real-World+Projects+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey!+I'm+Harshit+Mishra+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;AI+Engineering+Enthusiast+%F0%9F%A4%96;FinTech+%26+Trading+Systems+Explorer+%F0%9F%93%88;I+Love+Turning+Ideas+Into+Products+%E2%9A%A1" />
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257455-7f9e3b0c-1c0e-4a4c-9a8e-2a4e4b4e9c4e.gif" width="500">
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 `Who Am I?`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2300&pause=600&color=8B949E&center=true&vCenter=true&width=850&lines=Curious+Developer+%7C+Problem+Solver+%7C+Builder;I+enjoy+building+things+that+actually+work;I+learn+by+building+real-world+projects;Always+exploring+new+technologies+%F0%9F%94%A5" />
 
 </div>
 
 <br>
 
-I'm a **Software Developer and B.Tech student** passionate about building practical, scalable and user-focused applications.
-
-I enjoy turning ideas into real-world software using modern technologies across **Full-Stack Development, AI Engineering and FinTech**.
-
-### 🚀 What I Do
-
-- 💻 Build full-stack web applications
-- 🤖 Explore AI Engineering and intelligent applications
-- 📈 Build FinTech and trading-oriented systems
-- 🧠 Practice Data Structures & Algorithms
-- 🏗️ Learn backend architecture and system design
-- ☁️ Explore cloud deployment and DevOps
-- 🔍 Continuously improve my problem-solving skills
-
-### 🎯 Current Mission
-
 <div align="center">
 
-> **Build production-ready software that solves real-world problems.**
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 Software Development
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=400&lines=Writing+Clean+Code;Building+Scalable+Applications;Designing+REST+APIs;Solving+Real-World+Problems" />
+
+<br>
+
+🌐 Full-Stack Development  
+⚙️ Backend Engineering  
+🧠 Data Structures & Algorithms  
+🏗️ System Design  
+🔐 Authentication & APIs  
+☁️ Deployment & Cloud  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Innovation
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=400&lines=Exploring+AI;Building+AI+Applications;Learning+LLMs;Experimenting+With+AI+Agents" />
+
+<br>
+
+🤖 AI Engineering  
+🧠 LLM Applications  
+🔎 RAG Systems  
+⚡ AI-powered Tools  
+🔗 AI APIs  
+🚀 Intelligent Applications  
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
-### ⚡ Developer Mindset
+---
+
+<div align="center">
+
+### 📈 FinTech
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1900&pause=600&color=58A6FF&center=true&vCenter=true&width=700&lines=Interested+in+Financial+Technology+%F0%9F%92%B0;Exploring+Trading+Platforms+%F0%9F%93%88;Building+FinTech+Applications+%F0%9F%9A%80;Learning+How+Financial+Systems+Work+%F0%9F%A7%A0" />
+
+<br>
+
+<img src="https://img.shields.io/badge/FinTech-Developer-2563EB?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trading-Systems-1E3A8A?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Financial-Technology-0D1117?style=for-the-badge&logo=moneygram&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧩 How I Build
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1500&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=IDEA+%F0%9F%92%A1;DESIGN+%F0%9F%8E%A8;CODE+%F0%9F%92%BB;TEST+%F0%9F%A7%AA;DEBUG+%F0%9F%90%9B;DEPLOY+%F0%9F%9A%80;IMPROVE+%F0%9F%94%A5" />
+
+</div>
+
+<br>
 
 <div align="center">
 
 ```text
-        LEARN
-          ↓
-        BUILD
-          ↓
-        TEST
-          ↓
-        DEBUG
-          ↓
-       DEPLOY
-          ↓
-       IMPROVE
-          ↓
-       REPEAT 🔥
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│     💡 IDEA                                             │
+│       │                                                 │
+│       ▼                                                 │
+│     🎨 DESIGN                                           │
+│       │                                                 │
+│       ▼                                                 │
+│     💻 DEVELOP                                          │
+│       │                                                 │
+│       ▼                                                 │
+│     🧪 TEST                                             │
+│       │                                                 │
+│       ▼                                                 │
+│     🐛 DEBUG                                            │
+│       │                                                 │
+│       ▼                                                 │
+│     🚀 DEPLOY                                           │
+│       │                                                 │
+│       ▼                                                 │
+│     📊 ANALYZE                                         │
+│       │                                                 │
+│       ▼                                                 │
+│     🔄 IMPROVE ────────────────────────► 💡             │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
