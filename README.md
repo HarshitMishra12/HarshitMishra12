@@ -17,132 +17,179 @@
 
 
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ========================================================= -->
+<!--                     ABOUT ME HERO                         -->
+<!-- ========================================================= -->
 
 <br>
-
-# 👨‍💻 About Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey!+I'm+Harshit+Mishra+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;AI+Engineering+Enthusiast+%F0%9F%A4%96;FinTech+%26+Trading+Systems+Explorer+%F0%9F%93%88;I+Love+Turning+Ideas+Into+Products+%E2%9A%A1" />
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257455-7f9e3b0c-1c0e-4a4c-9a8e-2a4e4b4e9c4e.gif" width="500">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=25&section=header" width="100%"/>
 
 </div>
-
----
-
-<div align="center">
-
-### 🚀 `Who Am I?`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2300&pause=600&color=8B949E&center=true&vCenter=true&width=850&lines=Curious+Developer+%7C+Problem+Solver+%7C+Builder;I+enjoy+building+things+that+actually+work;I+learn+by+building+real-world+projects;Always+exploring+new+technologies+%F0%9F%94%A5" />
-
-</div>
-
-<br>
-
-<div align="center">
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<!-- ================= LEFT SIDE ================= -->
 
-### 💻 Software Development
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=400&lines=Writing+Clean+Code;Building+Scalable+Applications;Designing+REST+APIs;Solving+Real-World+Problems" />
+<td width="58%" valign="middle">
 
 <br>
 
-🌐 Full-Stack Development  
-⚙️ Backend Engineering  
-🧠 Data Structures & Algorithms  
-🏗️ System Design  
-🔐 Authentication & APIs  
-☁️ Deployment & Cloud  
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=15&duration=2200&pause=900&color=58A6FF&vCenter=true&width=500&height=35&lines=SOFTWARE+ENGINEER.+BUILD.+SCALE." />
+
+<br>
+
+# Building Beautiful  
+# <span style="color:#58A6FF">Software</span>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2500&pause=900&color=8B949E&width=650&height=70&multiline=true&lines=I+build+modern+full-stack+applications%2C;AI-powered+products+and+FinTech+systems." />
+
+<br>
+
+I'm **Harshit Mishra**, a software developer passionate about building products that combine **technology, design and real-world impact**.
+
+<br><br>
+
+<a href="https://github.com/HarshitMishra12">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="#-tech-stack">
+<img src="https://img.shields.io/badge/VIEW%20TECH%20STACK-2563EB?style=for-the-badge&logo=stackblitz&logoColor=white"/>
+</a>
+
+<br><br>
 
 </td>
 
-<td width="50%" valign="top">
+<!-- ================= RIGHT SIDE ================= -->
 
-### 🤖 AI & Innovation
+<td width="42%" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=700&color=58A6FF&center=true&vCenter=true&width=400&lines=Exploring+AI;Building+AI+Applications;Learning+LLMs;Experimenting+With+AI+Agents" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=350&height=40&lines=CODE;CREATE;INNOVATE;DEPLOY" />
 
 <br>
 
-🤖 AI Engineering  
-🧠 LLM Applications  
-🔎 RAG Systems  
-⚡ AI-powered Tools  
-🔗 AI APIs  
-🚀 Intelligent Applications  
+<img src="https://user-images.githubusercontent.com/74038190/212257466-1f4d3f0b-7e4b-4b3d-8a75-7a3f7e8f5f0b.gif" width="360"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=700&color=8B949E&center=true&vCenter=true&width=380&height=40&lines=Full-Stack+%7C+AI+%7C+FinTech" />
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
----
-
-<div align="center">
-
-### 📈 FinTech
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1900&pause=600&color=58A6FF&center=true&vCenter=true&width=700&lines=Interested+in+Financial+Technology+%F0%9F%92%B0;Exploring+Trading+Platforms+%F0%9F%93%88;Building+FinTech+Applications+%F0%9F%9A%80;Learning+How+Financial+Systems+Work+%F0%9F%A7%A0" />
-
 <br>
 
-<img src="https://img.shields.io/badge/FinTech-Developer-2563EB?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trading-Systems-1E3A8A?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Financial-Technology-0D1117?style=for-the-badge&logo=moneygram&logoColor=white"/>
-
-</div>
-
----
+<!-- ================= SPECIALIZATION ================= -->
 
 <div align="center">
 
-### 🧩 How I Build
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1500&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=IDEA+%F0%9F%92%A1;DESIGN+%F0%9F%8E%A8;CODE+%F0%9F%92%BB;TEST+%F0%9F%A7%AA;DEBUG+%F0%9F%90%9B;DEPLOY+%F0%9F%9A%80;IMPROVE+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=WHAT+I+BUILD" />
 
 </div>
 
 <br>
 
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 💻
+
+### SOFTWARE
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1800&pause=700&color=8B949E&center=true&vCenter=true&width=260&height=55&lines=Full-Stack+Applications;Backend+Systems;REST+APIs;Scalable+Architecture" />
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖
+
+### AI
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1800&pause=700&color=8B949E&center=true&vCenter=true&width=260&height=55&lines=AI+Applications;LLM+Systems;RAG;AI+Agents" />
+
+</td>
+
+<td align="center" width="33%">
+
+### 📈
+
+### FINTECH
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1800&pause=700&color=8B949E&center=true&vCenter=true&width=260&height=55&lines=Trading+Systems;Financial+Applications;Fraud+Detection;Market+Technology" />
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ================= TECH MINDSET ================= -->
+
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│     💡 IDEA                                             │
-│       │                                                 │
-│       ▼                                                 │
-│     🎨 DESIGN                                           │
-│       │                                                 │
-│       ▼                                                 │
-│     💻 DEVELOP                                          │
-│       │                                                 │
-│       ▼                                                 │
-│     🧪 TEST                                             │
-│       │                                                 │
-│       ▼                                                 │
-│     🐛 DEBUG                                            │
-│       │                                                 │
-│       ▼                                                 │
-│     🚀 DEPLOY                                           │
-│       │                                                 │
-│       ▼                                                 │
-│     📊 ANALYZE                                         │
-│       │                                                 │
-│       ▼                                                 │
-│     🔄 IMPROVE ────────────────────────► 💡             │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=1700&pause=600&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=THINK.+BUILD.+TEST.+DEPLOY.+IMPROVE." />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BUILDING-REAL--WORLD%20PRODUCTS-161B22?style=for-the-badge&logo=rocket&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/LEARNING-EVERY%20DAY-161B22?style=for-the-badge&logo=bookstack&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/FOCUSED-ON%20IMPACT-161B22?style=for-the-badge&logo=target&logoColor=58A6FF"/>
+
+</div>
+
+<br>
+
+<!-- ================= CURRENT MISSION ================= -->
+
+<table>
+<tr>
+
+<td width="70%" valign="middle">
+
+### ⚡ CURRENT MISSION
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=700&color=8B949E&width=700&height=70&lines=Become+a+strong+Software+Engineer;Build+production-ready+applications;Master+AI+Engineering;Build+scalable+FinTech+systems" />
+
+</td>
+
+<td width="30%" align="center">
+
+<img src="https://img.shields.io/badge/2026-FOCUS-2563EB?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/FINTECH-58A6FF?style=flat-square"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=I+don't+just+write+code.;I+build+things+that+matter.+%F0%9F%9A%80" />
+
+</div>
+
+<br>
+
+---
