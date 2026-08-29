@@ -363,3 +363,74 @@ I'm **Harshit Mishra**, a software developer passionate about building products 
 <br>
 
 ---
+
+
+
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+<br>
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=MY+GITHUB+JOURNEY+%F0%9F%9A%80;CODE.+COMMIT.+CONTRIBUTE.+REPEAT.;BUILDING+EVERY+DAY+%F0%9F%94%A5;LET+THE+CONTRIBUTIONS+SPEAK+%F0%9F%93%88" />
+
+<br><br>
+
+<!-- ===================== MAIN STATS ===================== -->
+
+<img height="190"
+src="https://github-readme-stats.vercel.app/api?username=HarshitMishra12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&theme=github_dark&rank_icon=github&custom_title=Harshit%27s%20GitHub%20Stats"/>
+
+&nbsp;&nbsp;&nbsp;
+
+<img height="190"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMishra12&layout=compact&langs_count=8&hide_border=true&border_radius=12&theme=github_dark&custom_title=Most%20Used%20Languages"/>
+
+<br><br>
+
+<!-- ===================== STREAK ===================== -->
+
+<img
+src="https://streak-stats.demolab.com?user=HarshitMishra12&theme=github-dark-blue&hide_border=true&border_radius=12&mode=weekly"
+width="80%"/>
+
+<br><br>
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+
+### 📈 Contribution Activity
+
+<br>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitMishra12&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1E3A8A&area=true&hide_border=true&custom_title=Harshit%27s%20Contribution%20Graph"
+width="96%"/>
+
+<br><br>
+
+<!-- ===================== CONTRIBUTION SUMMARY ===================== -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitMishra12&theme=github_dark" width="96%"/>
+
+<br><br>
+
+<!-- ===================== PRODUCTIVE TIME ===================== -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshitMishra12&theme=github_dark&utcOffset=5.5" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshitMishra12&theme=github_dark" width="48%"/>
+
+<br><br>
+
+<!-- ===================== ANIMATED MESSAGE ===================== -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1600&pause=500&color=8B949E&center=true&vCenter=true&width=850&lines=Every+commit+is+a+step+forward+%F0%9F%9A%80;Every+bug+is+a+lesson+%F0%9F%90%9B;Every+project+is+a+new+challenge+%F0%9F%92%BB;Keep+Coding.+Keep+Growing.+%F0%9F%94%A5" />
+
+</div>
+
+<br>
+
+---
