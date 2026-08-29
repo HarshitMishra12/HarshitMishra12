@@ -213,7 +213,7 @@ I'm **Harshit Mishra**, a software developer passionate about building products 
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,typescript&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,c,javascript,typescript&theme=dark&perline=6" />
 
 <br><br>
 
@@ -237,7 +237,7 @@ I'm **Harshit Mishra**, a software developer passionate about building products 
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=spring boot,nodejs,express&theme=dark&perline=4" />
 
 <br><br>
 
@@ -259,7 +259,7 @@ I'm **Harshit Mishra**, a software developer passionate about building products 
 
 <!-- ================= AI ================= -->
 
-### 🤖 AI & Machine Learning
+### 🤖 AI
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark&perline=4" />
 
@@ -273,7 +273,7 @@ I'm **Harshit Mishra**, a software developer passionate about building products 
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws&theme=dark&perline=5" />
 
 <br><br>
 
@@ -349,7 +349,6 @@ I'm **Harshit Mishra**, a software developer passionate about building products 
 `Git`  
 `Docker`  
 `AWS`  
-`Linux`
 
 </td>
 </tr>
