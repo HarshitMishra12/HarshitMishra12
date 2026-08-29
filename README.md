@@ -375,11 +375,11 @@ I'm **Harshit Mishra**, a software developer passionate about building products 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=GITHUB+ACTIVITY+%26+ANALYTICS;CODE.+CONTRIBUTE.+GROW.;BUILDING+IN+PUBLIC+%F0%9F%9A%80;EVERY+COMMIT+TELLS+A+STORY+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=GITHUB+ANALYTICS;CODE.+COMMIT.+CONTRIBUTE.+GROW.;BUILDING+EVERY+DAY+%F0%9F%9A%80" />
 
 <br><br>
 
-<!-- ===================== STAT CARDS ===================== -->
+<!-- ===================== GITHUB STATS ===================== -->
 
 <table>
 <tr>
@@ -387,7 +387,7 @@ I'm **Harshit Mishra**, a software developer passionate about building products 
 <td width="50%" align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=HarshitMishra12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&rank_icon=github&custom_title=Developer%20Statistics"
+src="https://github-readme-stats.vercel.app/api?username=HarshitMishra12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github&custom_title=GitHub%20Statistics"
 width="100%"/>
 
 </td>
@@ -395,7 +395,7 @@ width="100%"/>
 <td width="50%" align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMishra12&layout=donut&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Technology%20Distribution"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMishra12&layout=compact&langs_count=8&hide_border=true&theme=github_dark&custom_title=Top%20Languages"
 width="100%"/>
 
 </td>
@@ -407,99 +407,31 @@ width="100%"/>
 
 <!-- ===================== STREAK ===================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1700&pause=600&color=58A6FF&center=true&vCenter=true&width=600&lines=CONSISTENCY+%3D+GROWTH+%F0%9F%94%A5;KEEP+THE+STREAK+ALIVE+%F0%9F%9A%80" />
+### 🔥 Contribution Streak
 
 <br>
 
 <img
-src="https://streak-stats.demolab.com?user=HarshitMishra12&theme=github-dark-blue&hide_border=true&border_radius=15&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"
-width="75%"/>
+src="https://streak-stats.demolab.com/?user=HarshitMishra12&theme=github-dark-blue&hide_border=true&border_radius=12"
+width="80%"/>
 
 <br><br>
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
-## 📈 Contribution Activity
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=600&color=8B949E&center=true&vCenter=true&width=750&lines=Visualizing+my+coding+journey+%F0%9F%92%BB;More+green%2C+more+building+%F0%9F%9F%A9;One+contribution+at+a+time+%F0%9F%94%A5" />
+### 📈 Contribution Activity
 
 <br>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitMishra12&bg_color=0D1117&color=58A6FF&line=3B82F6&point=FFFFFF&area_color=1E3A8A&area=true&hide_border=true&radius=10&custom_title=Contribution%20Activity%20%7C%20Harshit%20Mishra"
+src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitMishra12&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Harshit%27s%20Contribution%20Activity"
 width="96%"/>
 
 <br><br>
-
-<!-- ===================== PROFILE SUMMARY ===================== -->
-
-## 📊 Developer Overview
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitMishra12&theme=github_dark"
-width="96%"/>
-
-<br><br>
-
-<!-- ===================== METRICS ===================== -->
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshitMishra12&theme=github_dark"
-width="100%"/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshitMishra12&theme=github_dark"
-width="100%"/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ===================== CODING ACTIVITY ===================== -->
-
-## ⚡ Coding Activity
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/github/commit-activity/y/HarshitMishra12?style=for-the-badge&logo=github&label=COMMITS"/>
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/github/last-commit/HarshitMishra12/HarshitMishra12?style=for-the-badge&logo=github&label=LAST%20COMMIT"/>
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/github/repo-size/HarshitMishra12/HarshitMishra12?style=for-the-badge&logo=github&label=PROFILE%20REPO"/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
 
 <!-- ===================== ANIMATED STATUS ===================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1500&pause=500&color=58A6FF&center=true&vCenter=true&width=850&lines=ANALYZE+%E2%86%92+LEARN+%E2%86%92+BUILD+%E2%86%92+SHIP;CODE+TODAY.+BETTER+TOMORROW.+%F0%9F%9A%80;THE+JOURNEY+IS+JUST+GETTING+STARTED+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1600&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=Every+commit+is+progress+%F0%9F%9A%80;Every+bug+is+a+lesson+%F0%9F%90%9B;Every+project+is+a+new+challenge+%F0%9F%92%BB;Keep+Building.+Keep+Growing.+%F0%9F%94%A5" />
 
 </div>
 
