@@ -1,42 +1,46 @@
-# 👋 Hi, I'm Harshit
+<!-- ======================= HEADER ======================= -->
 
-🎓 3rd-year B.Tech Student | 💻 Frontend Developer | 🎨 UI/UX Designer
+<div align="center">
 
-I love building **clean, modern, and user-friendly web interfaces**. Currently exploring **React.js & Java** while sharpening my **design-to-code workflow** using Figma & Illustrator.
+# 👋 Hi, I'm Harshit Mishra
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+AI+Enthusiast;Building+Scalable+Full-Stack+Applications;Exploring+AI+%26+FinTech;Turning+Ideas+into+Real-World+Products" />
 
-## 🚀 Skills & Tools
-![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/Style-CSS-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JS-JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/React-React-blue?logo=react)
-![Java](https://img.shields.io/badge/Code-Java-red?logo=openjdk)
-![Figma](https://img.shields.io/badge/Design-Figma-purple?logo=figma)
-![Illustrator](https://img.shields.io/badge/Design-Illustrator-orange?logo=adobeillustrator)
+<br/>
 
----
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=flat" />
+</a>
 
-## 📌 Featured Projects
-🔹 [🎵 Spotify Clone](https://github.com/YourUsername/spotify-clone) – A responsive music player with shuffle, progress bar, and volume control.  
-🔹 [☁️ Weather App](https://github.com/YourUsername/weather-app) – Check live weather updates with location-based forecasts.  
-🔹 [❓ Quiz App](https://github.com/YourUsername/quiz-app) – Interactive quiz platform with timer, score tracking, and multiple categories.  
-🔹 [🖼️ 3D Portfolio App](https://github.com/YourUsername/3d-portfolio-app) – Immersive 3D portfolio showcasing projects and skills.
+<a href="https://github.com/YOUR_USERNAME?tab=followers">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=58A6FF" />
+</a>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
-![Harshit's GitHub stats](![Harshit’s GitHub Stats](https://HarshitMishra12.github.io/github-readme-stats/api?username=HarshitMishra12&show_icons=true&theme=default))
+<!-- ======================= ABOUT ======================= -->
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YourUsername&theme=tokyonight)
+## 🚀 About Me
 
----
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-linkedin-id)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=vercel)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:yourmail@gmail.com)
-
----
-
-✨ *“Code + Design = Impact.”*
+```javascript
+const harshit = {
+    role: "Software Developer",
+    education: "B.Tech — Electronics & Communication Engineering",
+    interests: [
+        "Full-Stack Development",
+        "Artificial Intelligence",
+        "FinTech",
+        "System Design",
+        "Problem Solving"
+    ],
+    currentlyLearning: [
+        "AI Engineering",
+        "Advanced DSA",
+        "Backend Architecture",
+        "Cloud & Deployment"
+    ],
+    goal: "Build reliable software that solves real-world problems.",
+    mindset: "Learn → Build → Deploy → Improve"
+};
