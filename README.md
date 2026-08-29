@@ -367,36 +367,43 @@ I'm **Harshit Mishra**, a software developer passionate about building products 
 
 
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
+<!-- ========================================================= -->
+<!--                    GITHUB ANALYTICS                       -->
+<!-- ========================================================= -->
 
 <br>
 
-# 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=GITHUB+ANALYTICS;CODE.+COMMIT.+CONTRIBUTE.+GROW.;BUILDING+EVERY+DAY+%F0%9F%9A%80" />
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=MY+GITHUB+JOURNEY+%F0%9F%9A%80;CODE+%E2%80%A2+COMMIT+%E2%80%A2+CONTRIBUTE+%E2%80%A2+GROW;BUILDING+EVERY+DAY+%F0%9F%94%A5"
+alt="GitHub Analytics"
+/>
 
 <br><br>
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== STATS ===================== -->
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%" align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=HarshitMishra12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github&custom_title=GitHub%20Statistics"
-width="100%"/>
+src="https://github-readme-stats.vercel.app/api?username=HarshitMishra12&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true"
+alt="GitHub Statistics"
+/>
 
 </td>
 
 <td width="50%" align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMishra12&layout=compact&langs_count=8&hide_border=true&theme=github_dark&custom_title=Top%20Languages"
-width="100%"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMishra12&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+alt="Top Languages"
+/>
 
 </td>
 
@@ -407,36 +414,56 @@ width="100%"/>
 
 <!-- ===================== STREAK ===================== -->
 
-### 🔥 Contribution Streak
+<h3 align="center">🔥 Contribution Streak</h3>
 
-<br>
+<div align="center">
 
 <img
 src="https://streak-stats.demolab.com/?user=HarshitMishra12&theme=github-dark-blue&hide_border=true&border_radius=12"
-width="80%"/>
-
-<br><br>
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-### 📈 Contribution Activity
-
-<br>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitMishra12&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Harshit%27s%20Contribution%20Activity"
-width="96%"/>
-
-<br><br>
-
-<!-- ===================== ANIMATED STATUS ===================== -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1600&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=Every+commit+is+progress+%F0%9F%9A%80;Every+bug+is+a+lesson+%F0%9F%90%9B;Every+project+is+a+new+challenge+%F0%9F%92%BB;Keep+Building.+Keep+Growing.+%F0%9F%94%A5" />
+alt="GitHub Contribution Streak"
+/>
 
 </div>
 
 <br>
 
----
+<!-- ===================== ACTIVITY GRAPH ===================== -->
 
+<h3 align="center">📈 Contribution Activity</h3>
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitMishra12&theme=github-compact&hide_border=true&area=true&radius=8"
+width="95%"
+alt="GitHub Contribution Activity"
+/>
+
+</div>
+
+<br>
+
+<!-- ===================== ANIMATED STATUS ===================== -->
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1600&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=Every+commit+is+progress+%F0%9F%9A%80;Every+bug+is+a+lesson+%F0%9F%90%9B;Every+project+is+a+new+challenge+%F0%9F%92%BB;Keep+Building.+Keep+Growing.+%F0%9F%94%A5"
+alt="Developer Mindset"
+/>
+
+</div>
+
+<br>
+
+<!-- ===================== END ===================== -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer"
+width="100%"
+/>
+
+</div>
 ---
