@@ -193,3 +193,174 @@ I'm **Harshit Mishra**, a software developer passionate about building products 
 <br>
 
 ---
+
+
+
+
+<!-- ===================== TECH STACK ===================== -->
+
+<br>
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=TOOLS.+TECHNOLOGIES.+BUILDING.;My+Developer+Toolkit+%E2%9A%A1;Turning+Ideas+Into+Working+Software+%F0%9F%9A%80;Always+Learning.+Always+Building.+%F0%9F%94%A5" />
+
+<br><br>
+
+<!-- ================= PROGRAMMING ================= -->
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,typescript&theme=dark&perline=6" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=600&color=8B949E&center=true&vCenter=true&width=700&lines=Java+%E2%80%A2+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+C;JavaScript+%E2%80%A2+TypeScript" />
+
+<br><br>
+
+<!-- ================= FRONTEND ================= -->
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark&perline=5" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=600&color=8B949E&center=true&vCenter=true&width=700&lines=Building+Modern+%26+Responsive+Interfaces;React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+CSS;Clean+UI+%7C+Reusable+Components+%7C+Responsive+Design" />
+
+<br><br>
+
+<!-- ================= BACKEND ================= -->
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=4" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=600&color=8B949E&center=true&vCenter=true&width=700&lines=REST+APIs+%7C+Authentication+%7C+Server+Logic;Node.js+%E2%80%A2+Express.js;Building+Scalable+Backend+Systems+%E2%9A%A1" />
+
+<br><br>
+
+<!-- ================= DATABASE ================= -->
+
+### 🗄️ Databases & Storage
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark&perline=4" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=600&color=8B949E&center=true&vCenter=true&width=700&lines=MongoDB+%E2%80%A2+MySQL+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;Designing+Reliable+Data+Systems+%F0%9F%97%84%EF%B8%8F" />
+
+<br><br>
+
+<!-- ================= AI ================= -->
+
+### 🤖 AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark&perline=4" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1900&pause=600&color=8B949E&center=true&vCenter=true&width=750&lines=Exploring+AI+Engineering+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+AI+Applications+%7C+AI+Agents;Building+Intelligent+Software+%E2%9A%A1" />
+
+<br><br>
+
+<!-- ================= DEVOPS ================= -->
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux&theme=dark&perline=5" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=600&color=8B949E&center=true&vCenter=true&width=750&lines=Git+%E2%80%A2+GitHub+%E2%80%A2+Docker+%E2%80%A2+AWS+%E2%80%A2+Linux;Version+Control+%7C+Containers+%7C+Cloud+%7C+Deployment;From+Localhost+%E2%86%92+Production+%F0%9F%9A%80" />
+
+<br><br>
+
+<!-- ================= TOOLS ================= -->
+
+### 🔧 Tools & Development
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm&theme=dark&perline=4" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=600&color=8B949E&center=true&vCenter=true&width=700&lines=VS+Code+%E2%80%A2+Postman+%E2%80%A2+Figma+%E2%80%A2+npm;Design.+Develop.+Test.+Ship.+%F0%9F%9A%80" />
+
+<br><br>
+
+<!-- ================= TECH FLOW ================= -->
+
+## ⚡ My Technology Flow
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1600&pause=500&color=58A6FF&center=true&vCenter=true&width=850&lines=CODE+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+DEPLOY;FRONTEND+%2B+BACKEND+%2B+DATABASE;AI+%2B+FINTECH+%2B+SOFTWARE+ENGINEERING;IDEA+%E2%86%92+PRODUCT+%F0%9F%9A%80" />
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💻
+**CODE**
+
+`Java`  
+`Python`  
+`C++`  
+`JavaScript`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+**BUILD**
+
+`React`  
+`Next.js`  
+`Node.js`  
+`Express`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+**STORE**
+
+`MongoDB`  
+`MySQL`  
+`PostgreSQL`  
+`Redis`
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+**SHIP**
+
+`Git`  
+`Docker`  
+`AWS`  
+`Linux`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1800&pause=600&color=58A6FF&center=true&vCenter=true&width=800&lines=My+Stack+Keeps+Growing+%F0%9F%93%88;Learning+New+Technologies+Every+Day+%F0%9F%A7%A0;Build+%E2%80%A2+Learn+%E2%80%A2+Improve+%E2%80%A2+Repeat+%F0%9F%94%A5" />
+
+</div>
+
+<br>
+
+---
