@@ -367,42 +367,42 @@ I'm **Harshit Mishra**, a software developer passionate about building products 
 
 
 
+
 <!-- ========================================================= -->
-<!--                    GITHUB ANALYTICS                       -->
+<!--                 GITHUB ANALYTICS                          -->
 <!-- ========================================================= -->
 
 <br>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=MY+GITHUB+JOURNEY+%F0%9F%9A%80;CODE+%E2%80%A2+COMMIT+%E2%80%A2+CONTRIBUTE+%E2%80%A2+GROW;BUILDING+EVERY+DAY+%F0%9F%94%A5"
-alt="GitHub Analytics"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=GITHUB+ANALYTICS+%F0%9F%93%8A;CODE.+COMMIT.+CONTRIBUTE.+GROW.;MY+CODING+JOURNEY+%F0%9F%9A%80"
 />
 
 <br><br>
 
-<!-- ===================== STATS ===================== -->
+<!-- ===================== GITHUB STATS ===================== -->
 
-<table align="center">
+<table>
 <tr>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 <img
 src="https://github-readme-stats.vercel.app/api?username=HarshitMishra12&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true"
-alt="GitHub Statistics"
+width="100%"
 />
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMishra12&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-alt="Top Languages"
+width="100%"
 />
 
 </td>
@@ -414,56 +414,34 @@ alt="Top Languages"
 
 <!-- ===================== STREAK ===================== -->
 
-<h3 align="center">🔥 Contribution Streak</h3>
-
-<div align="center">
+<h2>🔥 Contribution Streak</h2>
 
 <img
 src="https://streak-stats.demolab.com/?user=HarshitMishra12&theme=github-dark-blue&hide_border=true&border_radius=12"
-alt="GitHub Contribution Streak"
+width="80%"
 />
 
-</div>
+<br><br>
 
-<br>
+<!-- ===================== REAL ACTIVITY GRAPH ===================== -->
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-
-<h3 align="center">📈 Contribution Activity</h3>
-
-<div align="center">
+<h2>📈 Contribution Graph</h2>
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitMishra12&theme=github-compact&hide_border=true&area=true&radius=8"
 width="95%"
-alt="GitHub Contribution Activity"
+/>
+
+<br><br>
+
+<!-- ===================== ANIMATED MESSAGE ===================== -->
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1600&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=Every+commit+is+progress+%F0%9F%9A%80;Every+contribution+matters+%F0%9F%94%A5;Keep+Coding.+Keep+Growing."
 />
 
 </div>
 
 <br>
 
-<!-- ===================== ANIMATED STATUS ===================== -->
-
-<div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1600&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=Every+commit+is+progress+%F0%9F%9A%80;Every+bug+is+a+lesson+%F0%9F%90%9B;Every+project+is+a+new+challenge+%F0%9F%92%BB;Keep+Building.+Keep+Growing.+%F0%9F%94%A5"
-alt="Developer Mindset"
-/>
-
-</div>
-
-<br>
-
-<!-- ===================== END ===================== -->
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer"
-width="100%"
-/>
-
-</div>
 ---
